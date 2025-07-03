@@ -2,7 +2,7 @@
 
 > *A cozy, pixel-inspired digital journal to track your day, tasks, and reflections.*  
 
-![ProductiveJournal Banner](assets/banner.png) <!-- if you have a banner image, or remove this line -->
+![ProductiveJournal Banner](assets/icon.png) <!-- if you have a banner image, or remove this line -->
 
 ---
 
