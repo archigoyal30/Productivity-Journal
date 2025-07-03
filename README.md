@@ -1,4 +1,3 @@
-````markdown
 # 🌸 ProductiveJournal
 
 > *A cozy, pixel-inspired digital journal to track your day, tasks, and reflections.*  
@@ -39,7 +38,6 @@
 ```bash
 git clone https://github.com/yourusername/ProductiveJournal.git
 cd ProductiveJournal
-````
 
 2. **Install dependencies**
 
@@ -82,15 +80,9 @@ You can then move the `.app` file to your **Applications** folder on macOS for a
 
 ---
 
-## 📸 More Screenshots
-
-> *(Add more screenshots if you have them!)*
-
----
-
 ## ❤️ Credits
 
-* Designed and built with love by **Betelgeuse**
+* Designed and built with love by **Archi**
 * Powered by [Electron](https://electronjs.org/)
 * Pixel font from [Google Fonts](https://fonts.google.com/specimen/Pixelify+Sans)
 
@@ -122,5 +114,3 @@ You can then move the `.app` file to your **Applications** folder on macOS for a
 
 ```
 
-👉 **just rename your screenshot** to `assets/screenshot.png` and place this as your `README.md` — it’ll look beautiful on GitHub or any portfolio! 🌸
-```
