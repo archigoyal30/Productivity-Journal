@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="styles.css" />
+  <title>Task History</title>
+</head>
+<body>
+  <div class="finalDiv">
+    <h1 id="final-title">All Entries</h1>
+    <div class="search-container">
+      <input
+        id="search-box"
+        type="text"
+        placeholder="Search tasks..."
+      />
+    </div>
+    <div id="task-grid" class="task-grid"></div>
+    <div class="button-container">
+      <button id="back-btn">BACK</button>
+    </div>
+  </div>
+
+  <!-- edit modal -->
+  <div id="edit-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2>Edit Tasks</h2>
+      <ul id="edit-task-list"></ul>
+      <button id="save-edit-btn">Save</button>
+      <button id="cancel-edit-btn">Cancel</button>
+    </div>
+  </div>
+
+  <script src="history.js"></script>
+</body>
+</html>
