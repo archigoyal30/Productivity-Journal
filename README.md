@@ -39,6 +39,7 @@
 git clone https://github.com/yourusername/ProductiveJournal.git
 cd ProductiveJournal
 
+```
 2. **Install dependencies**
 
 ```bash
