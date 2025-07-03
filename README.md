@@ -2,18 +2,30 @@
 
 > *A cozy, pixel-inspired digital journal to track your day, tasks, and reflections.*  
 
-![ProductiveJournal Banner](assets/icon.png) <!-- if you have a banner image, or remove this line -->
+![ProductiveJournal Banner](assets/icon.png)  
 
 ---
 
 ## ✨ Features
 
-- 📅 **Daily Entries** — jot down your notes and track your progress
-- ✅ **Task Checklist** — mark your completed and incomplete tasks
-- 📊 **History View** — revisit past days and monitor consistency
-- 🖋 **Pixel-inspired Design** — for a delightful retro feel
-- 💾 **Local storage with SQLite** — your data stays private on your machine
-- ⚡ **Smooth Electron experience** — works offline
+- 📅 **Daily Entries** — beautifully organize your notes and reflections
+- ✅ **Task Checklist** — mark what you’ve accomplished and what’s left
+- 📊 **History View** — look back on your journey and stay consistent
+- 🖋 **Pixel-inspired UI** — a nostalgic, retro vibe that feels warm and personal
+- 💾 **Local-first with SQLite** — all your data stays safe on your machine
+- ⚡ **Smooth Electron-powered experience** — works completely offline
+- 🎨 **Fully Customizable** — easily tweak colors, styling, and logic
+- 🔒 **Zero Cloud** — total data privacy
+- 🪄 **Fast & Lightweight** — minimal yet powerful
+- 🧩 **Modular Codebase** — easy to extend and hack
+
+---
+
+## 🖼 App Interface
+
+> *Here’s a peek into the cozy pixel-inspired UI:*  
+
+![ProductiveJournal Interface](assets/screenshot.png)
 
 ---
 
