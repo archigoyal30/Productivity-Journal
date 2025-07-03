@@ -112,6 +112,3 @@ You can then move the `.app` file to your **Applications** folder on macOS for a
 ---
 
 **Happy journaling, and may your days stay productive!** 🌟
-
-```
-
